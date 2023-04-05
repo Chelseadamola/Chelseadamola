@@ -6,4 +6,4 @@ I'm a data analyst with experience in SQL, Excel, Power BI, and Python. I enjoy 
 
 🌱 As a lifelong learner, I'm always seeking out new data challenges to keep my skills sharp. And I'm always down for a good data chat, so don't hesitate to hit me up!
 
-👩🏾‍💻 Let's connect and chat about anything data-related! You can find me on LinkedIn.
+👩🏾‍💻 Let's connect and chat about anything data-related!
