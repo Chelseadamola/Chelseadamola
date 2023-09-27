@@ -1,4 +1,4 @@
-### Hey, I'm Chelsea 👋🏾
+### Hi, I'm Chelsea 👋🏾
 
 I'm a data analyst with experience in SQL, Excel, Power BI, and Python. I enjoy turning complex data into meaningful insights that drive impactful decisions.
 
